@@ -1,0 +1,5 @@
+{
+  "name": "Find",
+  "description": "A web application to create, launch, and track free marketing campaigns. Users can define objectives, platforms, and target audiences, and monitor performance through a centralized dashboard.",
+  "requestFramePermissions": []
+}
